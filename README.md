@@ -96,16 +96,18 @@
 
 <h1 style="font-size:60px;" align="center">SputnikOS</h1>
 
-<img style="width:400px;height:400px;" src="https://github.com/user-attachments/assets/9edb8886-02d1-4ad5-b671-d979b356453e">
+<div align='center'>
+  
+  ![License](https://img.shields.io/badge/GPL--3.0-green?style=for-the-badge)
+  
+  ![GitHub Created At](https://img.shields.io/github/created-at/sputnikOS/open-source?style=for-the-badge)
+  ![GitHub Release](https://img.shields.io/github/v/release/sputnikOS/open-source?style=for-the-badge) 
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/sputnikOS/open-source?style=for-the-badge)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/sputnikOS/open-source?style=for-the-badge)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/sputnikOS/open-source?style=for-the-badge)
+  ![GitHub language count](https://img.shields.io/github/languages/count/sputnikOS/open-source?style=for-the-badge)
+</div>
 
-![GitHub Created At](https://img.shields.io/github/created-at/sputnikOS/open-source?style=for-the-badge)
-![GitHub Release](https://img.shields.io/github/v/release/sputnikOS/open-source?style=for-the-badge) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/sputnikOS/open-source?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/sputnikOS/open-source?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/sputnikOS/open-source?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/sputnikOS/open-source?style=for-the-badge)
-
-![License](https://img.shields.io/badge/GPL--3.0-red?style=for-the-badge)
 
 <br/>
 
